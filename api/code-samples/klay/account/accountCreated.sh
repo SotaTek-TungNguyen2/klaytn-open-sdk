@@ -1,5 +1,5 @@
 curl -X 'POST' \
-  'http://localhost:7151/klay/accountCreated' \
+  'https://api.baobab.klaytn.net:8651/klay/accountCreated' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{

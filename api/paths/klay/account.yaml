@@ -7,7 +7,7 @@ info:
     url: https://www.apache.org/licenses/LICENSE-2.0.html
 
 servers:
-  - url: http://localhost:7151
+  - url: https://api.baobab.klaytn.net:8651
 
 paths:
   /klay/accountCreated:

@@ -35,6 +35,8 @@ servers:
 paths:
   /klay/getRewards:
     $ref: ./paths/klay/rewards.yaml#/paths/~1klay~1getRewards
+  /klay/blockNumber:
+    $ref: ./paths/klay/block.yaml#/paths/~1klay~1blockNumber
   /klay/account/accountCreated:
     $ref: ./paths/klay/account.yaml#/paths/~1klay~1accountCreated
   /klay/account/accountCreated2:

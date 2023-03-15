@@ -11,4 +11,5 @@ globalProperties:
   apiTests: true
 inlineSchemaNameMappings:
   accountCreated_default_response: AccountCreatedResponse
+  block_number_default_response: BlockNumberResponse
   getRewards_default_response: GetRewardsResponse
